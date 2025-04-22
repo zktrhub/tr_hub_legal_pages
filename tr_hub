@@ -1,0 +1,21 @@
+<!-- terms.html --><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Service</title>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>Welcome to our application. By using our services, you agree to the following terms and conditions. Our services are provided for content generation, publication, and management. You must not use our application for illegal or unauthorized purposes. The app is provided "as is" without warranty of any kind.</p>
+</body>
+</html><!-- privacy.html --><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy</title>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>We take your privacy seriously. Our app does not collect or share any personal data. Any data used for functionality remains on your device or your account platform. We do not store or transmit any sensitive information to third parties.</p>
+</body>
+</html>
